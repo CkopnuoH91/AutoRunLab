@@ -1,0 +1,123 @@
+E:\к диплому\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe.config
+d:\programms\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe.config
+d:\programms\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe
+d:\programms\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.pdb
+d:\programms\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csprojResolveAssemblyReference.cache
+d:\programms\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Form1.resources
+d:\programms\ARL\AutoRunLab\AutoRunLab\obj\Debug\WindowsFormsApplication1.FormCOM.resources
+d:\programms\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Properties.Resources.resources
+d:\programms\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csproj.GenerateResource.Cache
+d:\programms\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.exe
+d:\programms\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.pdb
+e:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.exe
+e:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.pdb
+e:\к диплому\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe
+e:\к диплому\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.pdb
+e:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csprojResolveAssemblyReference.cache
+e:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Form1.resources
+e:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\WindowsFormsApplication1.FormCOM.resources
+e:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Properties.Resources.resources
+e:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csproj.GenerateResource.Cache
+d:\рез коп прог 2\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe.config
+d:\рез коп прог 2\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.exe
+d:\рез коп прог 2\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.pdb
+d:\рез коп прог 2\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe
+d:\рез коп прог 2\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.pdb
+d:\рез коп прог 2\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csprojResolveAssemblyReference.cache
+d:\рез коп прог 2\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Form1.resources
+d:\рез коп прог 2\ARL\AutoRunLab\AutoRunLab\obj\Debug\WindowsFormsApplication1.FormCOM.resources
+d:\рез коп прог 2\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Properties.Resources.resources
+d:\рез коп прог 2\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csproj.GenerateResource.Cache
+g:\к диплому\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe.config
+g:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.exe
+g:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.pdb
+g:\к диплому\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe
+g:\к диплому\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.pdb
+g:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csprojResolveAssemblyReference.cache
+g:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Form1.resources
+g:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\WindowsFormsApplication1.FormCOM.resources
+g:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Properties.Resources.resources
+g:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csproj.GenerateResource.Cache
+i:\к диплому\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe.config
+i:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.exe
+i:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.pdb
+i:\к диплому\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe
+i:\к диплому\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.pdb
+i:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csprojResolveAssemblyReference.cache
+i:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Form1.resources
+i:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\WindowsFormsApplication1.FormCOM.resources
+i:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Properties.Resources.resources
+i:\к диплому\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csproj.GenerateResource.Cache
+C:\Users\CkopnuoH\Desktop\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe.config
+C:\Users\CkopnuoH\Desktop\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.exe
+C:\Users\CkopnuoH\Desktop\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.pdb
+C:\Users\CkopnuoH\Desktop\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe
+C:\Users\CkopnuoH\Desktop\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.pdb
+C:\Users\CkopnuoH\Desktop\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csprojResolveAssemblyReference.cache
+C:\Users\CkopnuoH\Desktop\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Form1.resources
+C:\Users\CkopnuoH\Desktop\ARL\AutoRunLab\AutoRunLab\obj\Debug\WindowsFormsApplication1.FormCOM.resources
+C:\Users\CkopnuoH\Desktop\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Properties.Resources.resources
+C:\Users\CkopnuoH\Desktop\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csproj.GenerateResource.Cache
+h:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe.config
+h:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.exe
+h:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.pdb
+h:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csprojResolveAssemblyReference.cache
+h:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Form1.resources
+h:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\WindowsFormsApplication1.FormCOM.resources
+h:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Properties.Resources.resources
+h:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csproj.GenerateResource.Cache
+h:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe
+h:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.pdb
+e:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe.config
+e:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.exe
+e:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.pdb
+e:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe
+e:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.pdb
+e:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csprojResolveAssemblyReference.cache
+e:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Form1.resources
+e:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\WindowsFormsApplication1.FormCOM.resources
+e:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Properties.Resources.resources
+e:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csproj.GenerateResource.Cache
+i:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe.config
+i:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.exe
+i:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.pdb
+i:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe
+i:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csprojResolveAssemblyReference.cache
+i:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Form1.resources
+i:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\WindowsFormsApplication1.FormCOM.resources
+i:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Properties.Resources.resources
+i:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csproj.GenerateResource.Cache
+i:\к диплому\ARL\ARLC disc C\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.pdb
+e:\к диплому\файлы к дипломной\Программы\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe.config
+e:\к диплому\файлы к дипломной\Программы\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.exe
+e:\к диплому\файлы к дипломной\Программы\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.pdb
+e:\к диплому\файлы к дипломной\Программы\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.exe
+e:\к диплому\файлы к дипломной\Программы\ARL\AutoRunLab\AutoRunLab\bin\Debug\AutoRunLab.pdb
+e:\к диплому\файлы к дипломной\Программы\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csprojResolveAssemblyReference.cache
+e:\к диплому\файлы к дипломной\Программы\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Form1.resources
+e:\к диплому\файлы к дипломной\Программы\ARL\AutoRunLab\AutoRunLab\obj\Debug\WindowsFormsApplication1.FormCOM.resources
+e:\к диплому\файлы к дипломной\Программы\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.Properties.Resources.resources
+e:\к диплому\файлы к дипломной\Программы\ARL\AutoRunLab\AutoRunLab\obj\Debug\AutoRunLab.csproj.GenerateResource.Cache
+e:\к диплому\файлы к дипломной\Программы\ARL\Windows 7\AutoRunLab\bin\Debug\AutoRunLab.exe.config
+e:\к диплому\файлы к дипломной\Программы\ARL\Windows 7\AutoRunLab\obj\Debug\AutoRunLab.exe
+e:\к диплому\файлы к дипломной\Программы\ARL\Windows 7\AutoRunLab\obj\Debug\AutoRunLab.pdb
+e:\к диплому\файлы к дипломной\Программы\ARL\Windows 7\AutoRunLab\bin\Debug\AutoRunLab.exe
+e:\к диплому\файлы к дипломной\Программы\ARL\Windows 7\AutoRunLab\bin\Debug\AutoRunLab.pdb
+e:\к диплому\файлы к дипломной\Программы\ARL\Windows 7\AutoRunLab\obj\Debug\AutoRunLab.csprojResolveAssemblyReference.cache
+e:\к диплому\файлы к дипломной\Программы\ARL\Windows 7\AutoRunLab\obj\Debug\AutoRunLab.Form1.resources
+e:\к диплому\файлы к дипломной\Программы\ARL\Windows 7\AutoRunLab\obj\Debug\WindowsFormsApplication1.FormCOM.resources
+e:\к диплому\файлы к дипломной\Программы\ARL\Windows 7\AutoRunLab\obj\Debug\AutoRunLab.Properties.Resources.resources
+e:\к диплому\файлы к дипломной\Программы\ARL\Windows 7\AutoRunLab\obj\Debug\AutoRunLab.csproj.GenerateResource.Cache
+e:\flash2\к диплому\файлы к дипломной\Программы\ARL\Windows 7\AutoRunLab\bin\Debug\AutoRunLab.exe.config
+e:\flash2\к диплому\файлы к дипломной\Программы\ARL\Windows 7\AutoRunLab\obj\Debug\AutoRunLab.exe
+e:\flash2\к диплому\файлы к дипломной\Программы\ARL\Windows 7\AutoRunLab\obj\Debug\AutoRunLab.pdb
+e:\Программы\ARL\AutoRunLab\bin\Debug\AutoRunLab.exe.config
+e:\Программы\ARL\AutoRunLab\obj\Debug\AutoRunLab.exe
+e:\Программы\ARL\AutoRunLab\obj\Debug\AutoRunLab.pdb
+e:\Программы\ARL\AutoRunLab\bin\Debug\AutoRunLab.exe
+e:\Программы\ARL\AutoRunLab\bin\Debug\AutoRunLab.pdb
+e:\Программы\ARL\AutoRunLab\obj\Debug\AutoRunLab.csprojResolveAssemblyReference.cache
+e:\Программы\ARL\AutoRunLab\obj\Debug\AutoRunLab.Form1.resources
+e:\Программы\ARL\AutoRunLab\obj\Debug\WindowsFormsApplication1.FormCOM.resources
+e:\Программы\ARL\AutoRunLab\obj\Debug\AutoRunLab.Properties.Resources.resources
+e:\Программы\ARL\AutoRunLab\obj\Debug\AutoRunLab.csproj.GenerateResource.Cache
